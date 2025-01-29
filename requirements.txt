@@ -1,0 +1,4 @@
+scapy==2.5.0
+flask==3.0.0 
+mitreattack-python==2.1.0 
+reportlab==4.1.0
