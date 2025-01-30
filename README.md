@@ -29,5 +29,3 @@ python reporter.py
 - SQLite (threat logging)
 - ReportLab (PDF generation)
 
-## License
-MIT License - See [LICENSE](LICENSE)
